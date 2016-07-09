@@ -1,2 +1,2 @@
 # Hello-World
-An openeing repository
+An opening repository
